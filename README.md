@@ -1,4 +1,4 @@
-```markdown
+
 # Combine Codes Script
 
 A simple yet powerful Bash script that recursively collects source code and text files from a directory tree and merges them into a single output file. Each file's content is prefixed with a header line containing its relative path, making it easy to review, share, or feed into LLMs (like ChatGPT, Claude, etc.) for code analysis or documentation.
@@ -30,11 +30,11 @@ You can easily modify the list inside the script (see [Customization](#customiza
 
 1. Download the script:
    ```bash
-   curl -O https://raw.githubusercontent.com/yourusername/yourrepo/main/combine_codes.sh
+   curl -O https://raw.githubusercontent.com/Dmitriy-Grebenev/CombineCodes_sh/main/combine_codes.sh
    ```
    or clone the entire repository:
    ```bash
-   git clone https://github.com/yourusername/yourrepo.git
+   git clone https://github.com/Dmitriy-Grebenev/CombineCodes_sh.git
    ```
 
 2. Make it executable:
@@ -122,4 +122,4 @@ If you find a bug or have an idea for improvement, please open an issue or submi
 ---
 
 **Enjoy consolidating your codebase!** 
-```
+
